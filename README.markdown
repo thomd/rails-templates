@@ -12,8 +12,8 @@ or
 For this put the following function (based on [Ryan Bates][1]) into your bashrc:
 
     function railst {
-      appname=$1
-      template=$2
+      template=$1
+      appname=$2
       shift 2
       rails $appname -m http://github.com/thomd/rails-templates/raw/master/$template.template.rb $@
     }
