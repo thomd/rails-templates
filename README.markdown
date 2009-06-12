@@ -1,6 +1,8 @@
 # rails templates
 
-templates for my rails needs
+Templates for my rails needs
+
+Make sure you have Rails 2.3 or greater installed
 
 ## usage:
 
