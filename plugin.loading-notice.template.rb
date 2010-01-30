@@ -1,12 +1,12 @@
 #
 # prove of concept application for loading_notice rails-plugin
 #
-# http://github.com/shaokun/loading_notice
+# http://github.com/thomd/loading_notice
 #
 
 
 # loading_notice plugin
-plugin 'loading_notice', :git => 'git://github.com/shaokun/loading_notice.git'
+plugin 'loading_notice', :git => 'http://github.com/thomd/loading_notice.git/'
 rake "loading_notice:install"
 
 
