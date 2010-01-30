@@ -9,7 +9,7 @@ Make sure you have Rails 2.3 or greater installed.
     rails project_name -m simple.template.rb
 or
 
-    railst project_name simple
+    railst template project
 
 For this put the following function (based on [Ryan Bates][1]) into your bashrc:
 
