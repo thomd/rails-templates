@@ -1,8 +1,8 @@
 # rails templates
 
-Templates for my rails needs
+Collection of templates for my rails needs.
 
-Make sure you have Rails 2.3 or greater installed
+Make sure you have Rails 2.3 or greater installed.
 
 ## Usage
 
@@ -34,7 +34,11 @@ This is a simple start-to-experiment rails application. It uses Ryan Bates [nift
 
 Rails template for a things application. Not finished yet ...
 
+### rspec
+
+A simple rails application for experimenting with [rspec][4]. 
 
 [1]: http://github.com/ryanb/rails-templates/tree/master
 [2]: http://github.com/thomd/loading_notice
 [3]: http://github.com/ryanb/nifty-generators
+[4]: http://rspec.info/
